@@ -4,6 +4,8 @@
         background-image: url("../images/herringbone.png");
         color:black;
         display: inline-block;
+        float: right;
+        margin: 1.5px;
     }
     body{
         background: gray;

@@ -3,6 +3,8 @@
     background-image: url("../images/herringbone.png");
     color: #777777;
     display: inline-block;
+    
+    margin: 1.5px;
 }
 body{
     background: gray;
@@ -66,7 +68,7 @@ div{
         text-align: left;
         color: #ffffff;
         background-color: #4aaaa5;
-        padding: 15px;
+        padding: 18px;
         font-family: 'Times New Roman', Times, serif;
     }
           p {
@@ -82,8 +84,6 @@ div{
             margin-inline-start: 0px;
             margin-inline-end: 0px;
             font-weight: bold;
-        }
-         h2 {
             text-align: left;
             clear: both;
             color: #4aaaa5;
